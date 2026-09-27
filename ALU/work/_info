@@ -1,0 +1,124 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/balar_ku1rb7l/OneDrive/Documents/Quality_throught/systemverilog/Project/ALU
+T_opt
+!s110 1790504090
+VCPU[l3aSOn2CHM37mP>0i2
+04 6 4 work tb_top fast 0
+=1-38d57a30ae5d-6ab8ec9a-25a-13d0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Yalu
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 DXx4 work 13 tb_top_v_unit 0 22 RDHjEH4WedmcL1V3lPVX02
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 meoQKN[n<7<Jad[c8zYnj1
+I4997Wh^d64KBf`ka7HAZm2
+Z5 !s105 tb_top_v_unit
+S1
+R0
+w1790496259
+8interface.v
+Z6 Finterface.v
+L0 1
+Z7 OL;L;10.6d;65
+Z8 !s108 1790504086.000000
+Z9 !s107 alu_8bit.v|scoreboard.v|monitor.v|driver.v|generator.v|transaction.v|environment.v|test.v|interface.v|tb_top.v|
+Z10 !s90 -reportprogress|300|-sv|tb_top.v|
+!i113 0
+Z11 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu_8bit
+R2
+R3
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 9A]?;e_Q]L4GO8;6ha6<73
+IggdcBS>TcjCl?OVR3`c[Y2
+R5
+S1
+R0
+w1790501291
+8alu_8bit.v
+Z12 Falu_8bit.v
+L0 1
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R1
+vtb_top
+R2
+R3
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z6PW>bi`NLe^P2O8lQ<ST1
+I8;4=7dU3V?ad?35VoKM5`1
+R5
+S1
+R0
+w1790503607
+Z13 8tb_top.v
+Z14 Ftb_top.v
+L0 10
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R1
+Xtb_top_v_unit
+!s115 alu
+R2
+VRDHjEH4WedmcL1V3lPVX02
+r1
+!s85 0
+31
+!i10b 1
+!s100 A;eB93jS1[Bdo12kb_CT00
+IRDHjEH4WedmcL1V3lPVX02
+!i103 1
+S1
+R0
+w1790504081
+R13
+R14
+R6
+Ftest.v
+Fenvironment.v
+Ftransaction.v
+Fgenerator.v
+Fdriver.v
+Fmonitor.v
+Fscoreboard.v
+R12
+L0 4
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R1

@@ -1,0 +1,124 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/balar_ku1rb7l/OneDrive/Documents/Quality_throught/systemverilog/Project/full_adder
+T_opt
+!s110 1790409855
+VOA6IIBOOK^LkH?G1=mZRW2
+04 6 4 work tb_top fast 0
+=1-38d57a30ae5d-6ab77c7f-7d-38f4
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Yfa
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1790409854
+!i10b 1
+!s100 H>3QVF?:4dh10HNadJi>Y3
+IK;K8nYCHLkk1G;?0<_[O`2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 !s105 tb_top_v_unit
+S1
+R0
+w1790345956
+8interface.v
+Z6 Finterface.v
+L0 4
+Z7 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z8 !s108 1790409853.000000
+Z9 !s107 coverage.v|environment.v|scoreboard.v|monitor.v|driver.v|generator.v|transaction.v|full_adder.v|interface.v|tb_top.v|
+Z10 !s90 -reportprogress|300|-sv|tb_top.v|
+!i113 0
+Z11 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfull_adder
+R2
+R3
+!i10b 1
+!s100 9AKX7i@?ka=bFY2OgLYW20
+I8WYn23h=T9_>CldSWc4`c3
+R4
+R5
+S1
+R0
+w1790346012
+8full_adder.v
+Z12 Ffull_adder.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R1
+vtb_top
+R2
+DXx4 work 13 tb_top_v_unit 0 22 1l40QPPV95kb`Y1o8_<R^3
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?zRX4PF]VYcQCXITTnCFg2
+IV]7e2W5@N2m^NWlcfT0^d1
+R5
+S1
+R0
+w1790409572
+Z13 8tb_top.v
+Z14 Ftb_top.v
+L0 13
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R1
+Xtb_top_v_unit
+!s115 fa
+R2
+V1l40QPPV95kb`Y1o8_<R^3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]Gf090Pk;hSO`Sg:ihfIo1
+I1l40QPPV95kb`Y1o8_<R^3
+!i103 1
+S1
+R0
+w1790409682
+R13
+R14
+R6
+R12
+Ftransaction.v
+Fgenerator.v
+Fdriver.v
+Fmonitor.v
+Fscoreboard.v
+Fenvironment.v
+Fcoverage.v
+L0 4
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R1
